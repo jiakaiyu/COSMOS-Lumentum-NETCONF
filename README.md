@@ -1,4 +1,4 @@
-# COSMOS_Lumentum_NETCONF
+# COSMOS-Lumentum-NETCONF
 
 Simple Lumentum NETCONF API
 
